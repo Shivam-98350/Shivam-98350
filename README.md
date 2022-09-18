@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shivam-98350
 - 👀 I’m interested in data
 - 🌱 I’m currently learning data sciene
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on data science projects
 - 📫 reach me : shivamkumarbth19@gmail.com 
 
 <!---
