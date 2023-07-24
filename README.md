@@ -13,6 +13,9 @@
 ## Coding Profile 👨‍💻
 
 [![Badge](https://cp-logo.vercel.app/leetcode/Shivam__kumar00?logo=true)](https://leetcode.com/Shivam__kumar00/)
+
+[![jetsai's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Shivam__kumar00&theme=Dark&width=600)](https://leetcode.com/Shivam__kumar00/)
+
 <a href="https://auth.geeksforgeeks.org/user/<shivam_kumar00>https://auth.geeksforgeeks.org/user/shivam_kumar00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<shivam_kumar00>https://auth.geeksforgeeks.org/user/shivam_kumar00" height="30" width="40" /></a>
 </p>
 
